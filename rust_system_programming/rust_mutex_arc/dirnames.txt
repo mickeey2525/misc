@@ -1,0 +1,5 @@
+/Users/mikio.tachibana/ghq/github.com/mickeey2525/misc/
+/Users/mikio.tachibana/dev/Core2-for-AWS-IoT-EduKit
+/Users/mikio.tachibana/dev/nodejs
+/Users/mikio.tachibana/dev/sadl
+/Users/mikio.tachibana/dev/sampleReactNative
